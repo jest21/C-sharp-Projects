@@ -1,0 +1,6 @@
+c:\users\jestinajohn30\documents\visual studio 2012\Projects\odd_or_even\odd_or_even\bin\Debug\odd_or_even.exe.config
+C:\Users\jestinajohn30\Documents\Visual Studio 2012\Projects\odd_or_even\odd_or_even\bin\Debug\odd_or_even.exe
+C:\Users\jestinajohn30\Documents\Visual Studio 2012\Projects\odd_or_even\odd_or_even\bin\Debug\odd_or_even.pdb
+C:\Users\jestinajohn30\Documents\Visual Studio 2012\Projects\odd_or_even\odd_or_even\obj\Debug\odd_or_even.csprojResolveAssemblyReference.cache
+C:\Users\jestinajohn30\Documents\Visual Studio 2012\Projects\odd_or_even\odd_or_even\obj\Debug\odd_or_even.exe
+C:\Users\jestinajohn30\Documents\Visual Studio 2012\Projects\odd_or_even\odd_or_even\obj\Debug\odd_or_even.pdb
