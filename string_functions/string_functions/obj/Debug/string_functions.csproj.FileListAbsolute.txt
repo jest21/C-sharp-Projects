@@ -1,0 +1,6 @@
+c:\users\jestinajohn30\documents\visual studio 2012\Projects\string_functions\string_functions\bin\Debug\string_functions.exe.config
+c:\users\jestinajohn30\documents\visual studio 2012\Projects\string_functions\string_functions\bin\Debug\string_functions.exe
+c:\users\jestinajohn30\documents\visual studio 2012\Projects\string_functions\string_functions\bin\Debug\string_functions.pdb
+c:\users\jestinajohn30\documents\visual studio 2012\Projects\string_functions\string_functions\obj\Debug\string_functions.csprojResolveAssemblyReference.cache
+c:\users\jestinajohn30\documents\visual studio 2012\Projects\string_functions\string_functions\obj\Debug\string_functions.exe
+c:\users\jestinajohn30\documents\visual studio 2012\Projects\string_functions\string_functions\obj\Debug\string_functions.pdb
