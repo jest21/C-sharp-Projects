@@ -1,0 +1,6 @@
+c:\users\jestinajohn30\documents\visual studio 2012\Projects\inheritance\inheritance\bin\Debug\inheritance.exe.config
+c:\users\jestinajohn30\documents\visual studio 2012\Projects\inheritance\inheritance\obj\Debug\inheritance.csprojResolveAssemblyReference.cache
+c:\users\jestinajohn30\documents\visual studio 2012\Projects\inheritance\inheritance\bin\Debug\inheritance.exe
+c:\users\jestinajohn30\documents\visual studio 2012\Projects\inheritance\inheritance\bin\Debug\inheritance.pdb
+c:\users\jestinajohn30\documents\visual studio 2012\Projects\inheritance\inheritance\obj\Debug\inheritance.exe
+c:\users\jestinajohn30\documents\visual studio 2012\Projects\inheritance\inheritance\obj\Debug\inheritance.pdb
