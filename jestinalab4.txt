@@ -1,0 +1,83 @@
+create table customerj13(customer_id varchar(10)primary key,name varchar(25)not null,area varchar(3),phone number(7));
+
+insert into customerj13 values('c1001','anu thomas','abc',9908098);
+insert into customerj13 values('c1002','leeann mathew','trs',9758087);
+insert into customerj13 values('c1003','abiya denil','cok',9987643);
+insert into customerj13 values('c1004','abu aslam','abc',9564321);
+insert into customerj13 values('c1005','telza seeb','tvm',8765432);
+insert into customerj13 values('c1006','minu roy',null,1234567
+
+alter table customerj13 phone number(10);
+
+update customerj13 set phone=5509908098 where customer_id='c1001';
+update customerj13 set phone=5209758087 where customer_id='c1002';
+update customerj13 set phone=5109987643 where customer_id='c1003';
+update customerj13 set phone=5509564321 where customer_id='c1004';
+update customerj13 set phone=5008765432 where customer_id='c1005';
+update customerj13 set phone=5901234567 where customer_id='c1006';
+
+select * from customer;
+
+CUSTOMER_I NAME                      ARE      PHONE
+---------- ------------------------- --- ----------
+c1001      anu thomas                abc 5509908098
+c1002      leeann mathew             trs 5209758087
+c1003      abiya denil               cok 5109987643
+c1004      abu aslam                 abc 5509564321
+c1005      telza seeb                tvm 5008765432
+c1006      minu roy                      5901234567
+
+
+select customer_id,name from customerj13 where name like '_e%';
+CUSTOMER_I NAME
+---------- -------------------------
+c1002      leeann mathew
+c1005      telza seeb
+
+
+select * from customerj13 where area='abc';
+CUSTOMER_I NAME                      ARE      PHONE
+---------- ------------------------- --- ----------
+c1001      anu thomas                abc 5509908098
+c1004      abu aslam                 abc 5509564321
+
+
+delete from customer where area is null;
+
+select * from customer order by name;
+
+CUSTOMER_I NAME                      ARE      PHONE
+---------- ------------------------- --- ----------
+c1003      abiya denil               cok 5109987643
+c1004      abu aslam                 abc 5509564321
+c1001      anu thomas                abc 5509908098
+c1002      leeann mathew             trs 5209758087
+c1005      telza seeb                tvm 5008765432
+
+
+create table temp as select customer_id,name,phone from customerj13;
+
+select area,count(*) from customerj13 group by area;
+
+ARE   COUNT(*)
+--- ----------
+trs          1
+cok          1
+tvm          1
+abc          2
+
+select * from customerj13 where name like 'a%' or area='abc';
+
+CUSTOMER_I NAME                      ARE      PHONE
+---------- ------------------------- --- ----------
+c1001      anu thomas                abc 5509908098
+c1003      abiya denil               cok 5109987643
+c1004      abu aslam                 abc 5509564321
+
+
+select * from customerj13 where name like  'a%' and phone like '55%';
+
+CUSTOMER_I NAME                      ARE      PHONE
+---------- ------------------------- --- ----------
+c1001      anu thomas                abc 5509908098
+c1004      abu aslam                 abc 5509564321
