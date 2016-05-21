@@ -1,0 +1,6 @@
+c:\users\jestinajohn30\documents\visual studio 2012\Projects\factorial_recursionfun\factorial_recursionfun\bin\Debug\factorial_recursionfun.exe.config
+c:\users\jestinajohn30\documents\visual studio 2012\Projects\factorial_recursionfun\factorial_recursionfun\bin\Debug\factorial_recursionfun.exe
+c:\users\jestinajohn30\documents\visual studio 2012\Projects\factorial_recursionfun\factorial_recursionfun\bin\Debug\factorial_recursionfun.pdb
+c:\users\jestinajohn30\documents\visual studio 2012\Projects\factorial_recursionfun\factorial_recursionfun\obj\Debug\factorial_recursionfun.csprojResolveAssemblyReference.cache
+c:\users\jestinajohn30\documents\visual studio 2012\Projects\factorial_recursionfun\factorial_recursionfun\obj\Debug\factorial_recursionfun.exe
+c:\users\jestinajohn30\documents\visual studio 2012\Projects\factorial_recursionfun\factorial_recursionfun\obj\Debug\factorial_recursionfun.pdb
