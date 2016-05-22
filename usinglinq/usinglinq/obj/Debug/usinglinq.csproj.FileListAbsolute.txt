@@ -1,0 +1,6 @@
+c:\users\jestinajohn30\documents\visual studio 2012\Projects\usinglinq\usinglinq\bin\Debug\usinglinq.exe.config
+c:\users\jestinajohn30\documents\visual studio 2012\Projects\usinglinq\usinglinq\bin\Debug\usinglinq.exe
+c:\users\jestinajohn30\documents\visual studio 2012\Projects\usinglinq\usinglinq\bin\Debug\usinglinq.pdb
+c:\users\jestinajohn30\documents\visual studio 2012\Projects\usinglinq\usinglinq\obj\Debug\usinglinq.csprojResolveAssemblyReference.cache
+c:\users\jestinajohn30\documents\visual studio 2012\Projects\usinglinq\usinglinq\obj\Debug\usinglinq.exe
+c:\users\jestinajohn30\documents\visual studio 2012\Projects\usinglinq\usinglinq\obj\Debug\usinglinq.pdb
