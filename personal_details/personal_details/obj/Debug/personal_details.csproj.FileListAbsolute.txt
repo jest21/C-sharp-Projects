@@ -1,0 +1,6 @@
+c:\users\jestinajohn30\documents\visual studio 2012\Projects\personal_details\personal_details\bin\Debug\personal_details.exe.config
+c:\users\jestinajohn30\documents\visual studio 2012\Projects\personal_details\personal_details\obj\Debug\personal_details.csprojResolveAssemblyReference.cache
+c:\users\jestinajohn30\documents\visual studio 2012\Projects\personal_details\personal_details\bin\Debug\personal_details.exe
+c:\users\jestinajohn30\documents\visual studio 2012\Projects\personal_details\personal_details\bin\Debug\personal_details.pdb
+c:\users\jestinajohn30\documents\visual studio 2012\Projects\personal_details\personal_details\obj\Debug\personal_details.exe
+c:\users\jestinajohn30\documents\visual studio 2012\Projects\personal_details\personal_details\obj\Debug\personal_details.pdb
