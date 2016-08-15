@@ -1,0 +1,9 @@
+c:\users\jestinajohn30\documents\visual studio 2012\Projects\employee_sal\employee_sal\bin\Debug\employee_sal.exe.config
+c:\users\jestinajohn30\documents\visual studio 2012\Projects\employee_sal\employee_sal\bin\Debug\employee_sal.exe
+c:\users\jestinajohn30\documents\visual studio 2012\Projects\employee_sal\employee_sal\bin\Debug\employee_sal.pdb
+c:\users\jestinajohn30\documents\visual studio 2012\Projects\employee_sal\employee_sal\obj\Debug\employee_sal.csprojResolveAssemblyReference.cache
+c:\users\jestinajohn30\documents\visual studio 2012\Projects\employee_sal\employee_sal\obj\Debug\employee_sal.Form1.resources
+c:\users\jestinajohn30\documents\visual studio 2012\Projects\employee_sal\employee_sal\obj\Debug\employee_sal.Properties.Resources.resources
+c:\users\jestinajohn30\documents\visual studio 2012\Projects\employee_sal\employee_sal\obj\Debug\employee_sal.csproj.GenerateResource.Cache
+c:\users\jestinajohn30\documents\visual studio 2012\Projects\employee_sal\employee_sal\obj\Debug\employee_sal.exe
+c:\users\jestinajohn30\documents\visual studio 2012\Projects\employee_sal\employee_sal\obj\Debug\employee_sal.pdb
