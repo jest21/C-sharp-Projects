@@ -1,0 +1,6 @@
+c:\users\jestinajohn30\documents\visual studio 2012\Projects\linq_pgm\linq_pgm\bin\Debug\linq_pgm.exe.config
+c:\users\jestinajohn30\documents\visual studio 2012\Projects\linq_pgm\linq_pgm\bin\Debug\linq_pgm.exe
+c:\users\jestinajohn30\documents\visual studio 2012\Projects\linq_pgm\linq_pgm\bin\Debug\linq_pgm.pdb
+c:\users\jestinajohn30\documents\visual studio 2012\Projects\linq_pgm\linq_pgm\obj\Debug\linq_pgm.csprojResolveAssemblyReference.cache
+c:\users\jestinajohn30\documents\visual studio 2012\Projects\linq_pgm\linq_pgm\obj\Debug\linq_pgm.exe
+c:\users\jestinajohn30\documents\visual studio 2012\Projects\linq_pgm\linq_pgm\obj\Debug\linq_pgm.pdb
