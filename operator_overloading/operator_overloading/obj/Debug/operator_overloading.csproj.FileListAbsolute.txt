@@ -1,0 +1,6 @@
+c:\users\jestinajohn30\documents\visual studio 2012\Projects\operator_overloading\operator_overloading\bin\Debug\operator_overloading.exe.config
+c:\users\jestinajohn30\documents\visual studio 2012\Projects\operator_overloading\operator_overloading\obj\Debug\operator_overloading.csprojResolveAssemblyReference.cache
+c:\users\jestinajohn30\documents\visual studio 2012\Projects\operator_overloading\operator_overloading\bin\Debug\operator_overloading.exe
+c:\users\jestinajohn30\documents\visual studio 2012\Projects\operator_overloading\operator_overloading\bin\Debug\operator_overloading.pdb
+c:\users\jestinajohn30\documents\visual studio 2012\Projects\operator_overloading\operator_overloading\obj\Debug\operator_overloading.exe
+c:\users\jestinajohn30\documents\visual studio 2012\Projects\operator_overloading\operator_overloading\obj\Debug\operator_overloading.pdb
