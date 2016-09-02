@@ -1,0 +1,6 @@
+c:\users\jestinajohn30\documents\visual studio 2012\Projects\amt_denomination\amt_denomination\bin\Debug\amt_denomination.exe.config
+c:\users\jestinajohn30\documents\visual studio 2012\Projects\amt_denomination\amt_denomination\bin\Debug\amt_denomination.exe
+c:\users\jestinajohn30\documents\visual studio 2012\Projects\amt_denomination\amt_denomination\bin\Debug\amt_denomination.pdb
+c:\users\jestinajohn30\documents\visual studio 2012\Projects\amt_denomination\amt_denomination\obj\Debug\amt_denomination.csprojResolveAssemblyReference.cache
+c:\users\jestinajohn30\documents\visual studio 2012\Projects\amt_denomination\amt_denomination\obj\Debug\amt_denomination.exe
+c:\users\jestinajohn30\documents\visual studio 2012\Projects\amt_denomination\amt_denomination\obj\Debug\amt_denomination.pdb
